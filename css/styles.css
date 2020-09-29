@@ -164,17 +164,6 @@ html {
   color: #A6212C;
 }
 
-/* #third-container::before {
-  content: "";
-  background-image: url("../images/home4.jpg");
-  background-size: cover;
-  position: absolute;
-  top: 0px;
-  right: 0px;
-  bottom: 0px;
-  left: 0px;
-  opacity: 0.5;
-} */
 #videosList {
   max-width: 78%;
   overflow: hidden;
@@ -198,6 +187,7 @@ html {
   position: relative;
   border-radius: 10px;
 }
+
 
 .one {
   background-image: url('../images/Fam.png');
